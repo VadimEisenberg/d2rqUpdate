@@ -2,4 +2,4 @@ The D2RQ/Update code is under Apache 2.0 license.
 
 The project requires the following jars in addition to the jars required by D2RQ:
 1. jsqlparser - https://github.com/JSQLParser/JSqlParser, LGPL V2.1 and Apache Software License, Version 2.0
-2.  jgrahpt - http://www.jgrapht.org/, GNU LGPL License
+2. jgrahpt - http://www.jgrapht.org/, GNU LGPL License
