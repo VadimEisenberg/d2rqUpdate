@@ -29,12 +29,13 @@ See [LICENSES.txt](https://github.com/VadimEisenberg/d2rqUpdate/blob/master/LICE
 # Source Code
 [D2RQ/Update](https://github.com/VadimEisenberg/d2rqUpdate)
 
-[D2R/Update Server](http://dbsw.cs.technion.ac.il/svn/d2rUpdateServer)
+[D2R/Update Server](https://github.com/VadimEisenberg/d2rUpdateServer)
 
 # Tests
 
-The tests of D2Q/Update can be checked out from http://dbsw.cs.technion.ac.il/svn/d2rqUpdateDBUnitTests In addition to the LGPL jars specified in the Download D2R/Update Server section, the tests use a JUnit extension - DBUnit .
-Tutorial
+The tests of D2Q/Update are [here](https://github.com/VadimEisenberg/d2rqUpdateDBUnitTests). In addition to the LGPL jars specified in the Download D2R/Update Server section, the tests use a JUnit extension - DBUnit.
+
+# Tutorial
 
 The tutorial that explains how to install and run D2RQ/Update, including example database, mapping and SPARQL/Update statements appears here.
 
