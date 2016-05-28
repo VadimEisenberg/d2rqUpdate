@@ -14,9 +14,9 @@ Currently, the version of SPARQL/Update from 22 October 2009 is used (with MODIF
 
 Poster to be presented on WWW2012, April 16-21, Lyon
 
-# Download D2R/Update Server
+# Build D2R/Update Server
 
-The D2R/Update Server can be downloaded from [D2R/Update Server](http://dbsw.cs.technion.ac.il/svn/d2rUpdateServer) (Apache License 2.0) .
+Build [D2R/Update Server](https://github.com/VadimEisenberg/d2rUpdateServer) (Apache License 2.0).
 
 D2RQ/Update uses JSQLParser, (LGPL license and Apache License 2.0) that can be downloaded from https://github.com/JSQLParser/JSqlParser. Just copy jsqlparser.jar to the lib directory inside the root directory of D2R/Update Server
 D2RQ/Update uses JGraphT, (LGPL license) that can be downloaded from http://www.jgrapht.org/ . Just copy the jgrapht-jdk1.6.jar to the lib directory inside the root directory of D2R/Update Server.
