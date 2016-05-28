@@ -37,7 +37,7 @@ The tests of D2Q/Update are [here](https://github.com/VadimEisenberg/d2rqUpdateD
 
 # Tutorial
 
-The tutorial that explains how to install and run D2RQ/Update, including example database, mapping and SPARQL/Update statements appears here.
+The tutorial that explains how to install and run D2RQ/Update, including example database, mapping and SPARQL/Update statements is [here](http://vadimeisenberg.github.io/d2rqUpdate/tutorial.html).
 
 # Support
 
