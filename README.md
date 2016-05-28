@@ -16,19 +16,20 @@ Poster to be presented on WWW2012, April 16-21, Lyon
 
 # Download D2R/Update Server
 
-The D2R/Update Server can be downloaded from [to be updated] (Apache License 2.0) .
+The D2R/Update Server can be downloaded from [D2R/Update Server](http://dbsw.cs.technion.ac.il/svn/d2rUpdateServer) (Apache License 2.0) .
 
-D2RQ/Update uses JSQLParser, (LGPL license) that can be downloaded from http://sourceforge.net/projects/jsqlparser/. Just copy lib/jsqlparser.jar to the lib directory inside the root directory of D2R/Update Server
+D2RQ/Update uses JSQLParser, (LGPL license and Apache License 2.0) that can be downloaded from https://github.com/JSQLParser/JSqlParser. Just copy jsqlparser.jar to the lib directory inside the root directory of D2R/Update Server
 D2RQ/Update uses JGraphT, (LGPL license) that can be downloaded from http://www.jgrapht.org/ . Just copy the jgrapht-jdk1.6.jar to the lib directory inside the root directory of D2R/Update Server.
-Source Code
 
 # License
-The code is under Apache License 2.0. In order to build the code, two LGPL jars are needed, as described in the Download D2R/Update Server section
+The code is under Apache License 2.0. In order to build the code,  several jars are needed, as described in the [Download D2R/Update Server section](#download-d2rupdate-server)
 
 See [LICENSES.txt](https://github.com/VadimEisenberg/d2rqUpdate/blob/master/LICENSES.txt)
 
-D2RQ/Update - http://dbsw.cs.technion.ac.il/svn/d2rqUpdate
-D2R/Update Server - http://dbsw.cs.technion.ac.il/svn/d2rUpdateServer
+# Source Code
+[D2RQ/Update](https://github.com/VadimEisenberg/d2rqUpdate)
+
+[D2R/Update Server](http://dbsw.cs.technion.ac.il/svn/d2rUpdateServer)
 
 # Tests
 
