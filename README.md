@@ -22,7 +22,11 @@ D2RQ/Update uses JSQLParser, (LGPL license) that can be downloaded from http://s
 D2RQ/Update uses JGraphT, (LGPL license) that can be downloaded from http://www.jgrapht.org/ . Just copy the jgrapht-jdk1.6.jar to the lib directory inside the root directory of D2R/Update Server.
 Source Code
 
+# License
 The code is under Apache License 2.0. In order to build the code, two LGPL jars are needed, as described in the Download D2R/Update Server section
+
+See [LICENSES.txt](https://github.com/VadimEisenberg/d2rqUpdate/blob/master/LICENSES.txt)
+
 D2RQ/Update - http://dbsw.cs.technion.ac.il/svn/d2rqUpdate
 D2R/Update Server - http://dbsw.cs.technion.ac.il/svn/d2rUpdateServer
 
