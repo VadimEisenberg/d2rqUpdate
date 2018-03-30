@@ -1,4 +1,5 @@
 # D2RQ/Update and D2R/Update Server
+NOT SUPPORTED. Developed during my M.Sc. studies in 2010.
 
 # Prototype extensions of D2RQ and D2R Server for SPARQL/Update
 
